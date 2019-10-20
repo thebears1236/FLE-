@@ -1,0 +1,43 @@
+[
+	{
+		"useBackgroundColour" : "false",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "false",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "true",
+		"serverTitle" : "FLE Roleplay",
+		"playAudioInBackground" : "true",
+		"playVideoInBackground" : "true",
+		"YTVideoID" : "trbcaTwmgAI",
+		"videoVolume" : "7"
+	},
+	{
+		"rule1" : "Do not RDM or VDM",
+		"rule2" : "A microphone is a requirement",
+		"rule3" : "Do not abuse/exploit bugs",
+		"rule4" : "Do not use cheats",
+		"rule5" : "No racism",
+		"rule6" : "Do not harass others",
+		"rule7" : "Use common sense"
+	},
+	{
+		"servers1" : "CAD: fleroleplay.com",
+		"servers2" : "Apply: fleroleplay.net",
+		"servers3" : "Discord: https://discord.gg/flerp",
+		"servers4" : "Youtube: youtube.com/channel/UCK-Bj2NwIIX4hKkF1E0VDcg",
+		"servers5" : "Twitter: twitter.com/NiceMoDzcom ",
+		"servers6" : "Instagram: instagram.com/fleroleplay/",
+		"servers7" : ""
+	},
+	{
+		"content1" : "Character Customization",
+		"content2" : "CAD",
+		"content3" : "Whitelisted Police & EMS",
+		"content4" : "Great Community",
+		"content5" : "Open Buildings",
+		"content6" : "Custom Vehicle Models",
+		"content7" : "Elements Club"
+	}
+]
